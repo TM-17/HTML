@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Les Mangas</title>
+<style>
+body {
+background-color: silver
+}
+</style>
+</head>
+
+<body color=#A4A4A4>
+
+<
+<p align="center"> <FONT COLOR="RED"FONT FACE="Alpha Geometrique" FONT SIZE="20"> <texte> Les mangas </texte> </FONT> </p>
+<br>
+<br>
+<br>
+ <CENTER> Un manga (漫画?) est une </texte> 
+ <FONT COLOR="GREEN" <texte> bande dessinée japonaise </texte> </FONT>. 
+<br>Le mot « manga » est parfois utilisé pour désigner par extension une bande dessinée non japonaise respectant les codes des productions populaires japonaises
+<br> ou d'autres produits visuels rappelant certaines de ces bandes dessinées (dessins animés, style graphique, etc.). 
+<br>Les mangas traduits en langue française se lisent généralement dans le sens d'origine (de droite à gauche). 
+<br>La plupart des mangas sont en noir et blanc.
+
+Le dessinateur de mangas est appelé mangaka. </texte> </CENTER>
+
+<IMG SRC="Manga2.JPEG" width="200" height="350"; IMG ALIGN="left"; IMG HSPACE="0"> </IMG>
+<IMG SRC="MangaDB.JPG" width="200" height="350"; IMG ALIGN="right"; IMG HSPACE="0"> </IMG>
+
+<br>
+<br>
+<br>
+<center>
+<table border="1">
+<tr>
+<th> Nom</th>
+<th> Sexe</th>
+<th> Âge</th>
+</tr>
+<tr>
+<td>Shonen</td>
+<td>Garçons</td>
+<td>10-15</td>
+</tr>
+<tr>
+<td>Shojo</td>
+<td>Fille</td>
+<td>10-15</td>
+</tr>
+<tr>
+<td>Kodomo</td>
+<td>Les deux</td>
+<td>6-11</td>
+</tr>
+<tr>
+<td>Seinen</td>
+<td>Les deux</td>
+<td>16+</td>
+</tr>
+</center>
+</body>
+</html>
