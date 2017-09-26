@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Les Mangas</title>
+<link rel="stylesheet" href="CSS"/>
+
+</head>
+
+<body>
+
+
+
+<!-- TEXTE -->
+
+<div class="t">  Les mangas  </div>
+<br>
+<br>
+<div class="t2"> Un manga (漫画?) est une 
+ <span style="color:green;"> bande dessinée japonaise  </span>
+<br>Le mot « manga » est parfois utilisé pour désigner par extension une bande dessinée non japonaise 
+<br>respectant les codes des productions populaires japonaises
+ ou d'autres produits visuels rappelant certaines de ces bandes dessinées (dessins animés, style graphique, etc.). 
+<br>Les mangas traduits en langue française se lisent généralement dans le sens d'origine (de droite à gauche). 
+<br>La plupart des mangas sont en noir et blanc.
+   Le dessinateur de mangas est appelé mangaka.  </div>
+
+<br>
+<br>
+<br>
+
+
+<!-- IMAGE -->
+
+<div class="flotte"> <img src="Manga2.JPEG" alt=Manga2 /> </div>
+<img src="MangaDB.JPG" alt=DB />
+
+
+
+<!-- Liens -->
+
+<ul class="navbar">
+<li><a href="types">Types</a>
+</ul>
+
+
+</body>
+</html>
