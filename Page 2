@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Les Mangas/Types</title>
+<link rel="stylesheet" href="CSS"/>
+
+</head>
+
+<body>
+
+<div class="t">   Les types </div>
+
+<!-- Tableau -->
+<br>
+<br>
+
+<div class="t3">  Exemples:  </div>
+
+<br>
+
+<table>
+<tr>
+<th> Nom</th>
+<th> Sexe</th>
+<th> Âge</th>
+</tr>
+<tr>
+<td>Shonen</td>
+<td>Garçons</td>
+<td>10-15</td>
+</tr>
+<tr>
+<td>Shojo</td>
+<td>Fille</td>
+<td>10-15</td>
+</tr>
+<tr>
+<td>Kodomo</td>
+<td>Les deux</td>
+<td>6-11</td>
+</tr>
+<tr>
+<td>Seinen</td>
+<td>Les deux</td>
+<td>16+</td>
+</tr>
+</table>
+
+
+
+<!-- Texte -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<span style="color:black;">--> En Occident, le mot shōnen (少年?, qui signifie « adolescent » en japonais) est utilisé pour désigner un type de manga,  le shōnen manga (少年漫画?), le manga pour jeune garçon,
+<br> qui est un type de manga dont la cible éditoriale est avant tout constituée de jeunes adolescents de sexe masculin. 
+<br> Il est à opposer au shōjo manga (少女漫画?, le manga pour jeune fille).
+
+<br>Le shōnen manga n'est pas un genre, le terme désigne la cible éditoriale du manga. 
+<br>Ainsi, un manga est considéré comme un shōnen s'il a été prépublié au Japon dans un magazine dont la cible première est composée d'adolescents de sexe masculin, tels que Shonen Jump
+</span>
+<!-- Liens -->
+
+<ul class="navbar">
+<li><a href="ISN">Accueil</a>
+</ul>
+
+
+</body>
+</html>
